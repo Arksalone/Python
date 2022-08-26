@@ -1,0 +1,5 @@
+AND is used when both conditions are true! if one or both conditions resulted to false using AND,
+the condition return FALSE!
+
+OR is used when one or both conditions result to true,
+but if both conditions resulted to FALSE using OR the conditions return FALSE.
